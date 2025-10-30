@@ -1,0 +1,2 @@
+include pulsepytools/pulsedata/*.yml
+include pulsepytools/pulsesampler/config/*.yml

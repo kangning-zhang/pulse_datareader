@@ -1,0 +1,11 @@
+name: pulsept
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.0
+  - pyyaml
+  - numpy
+  - scipy
+  - matplotlib=3.0.0
+  - opencv=3.4.2
