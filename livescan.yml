@@ -1,0 +1,10 @@
+labels:
+  context:
+    - 2d_b_mode
+  probe:
+    - C2-9-D
+    - C1-5-D
+  freeze:
+    - 'False'
+
+min_seg_len: 120

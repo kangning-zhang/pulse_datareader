@@ -1,0 +1,11 @@
+gaze_file: gaze.dat
+
+bboxes:
+  image: [427, 66, 1435, 850]
+  text: [1336, 0, 1466, 216]
+  miniframe: [355, 64, 643, 265]
+  watermark: [355, 64, 745, 126]
+
+xl_mode_shift:
+  image: 178
+  text: 427

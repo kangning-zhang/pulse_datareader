@@ -1,0 +1,5 @@
+min_seg_len: 90
+max_void_frames: 4
+
+frame_period: 1
+processing: median

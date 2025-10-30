@@ -1,0 +1,10 @@
+scan_type: [Anomaly]
+required_annotations: [context, xl_mode, freeze, probe]
+sonographer_ids:
+exclude_sonographers: ['000']
+exclude_patients: ['0']
+exclude_scans:
+  - 2018-06-26T123641
+  - 2018-07-24T132952
+  - 2018-10-03T113956
+  - 2018-10-23T115037
